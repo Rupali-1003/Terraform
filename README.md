@@ -41,6 +41,9 @@ AWS Secret Access Key [None]: <Your Secret Key>
 Default region name [None]: us-east-1
 Default output format [None]: json
 
+### Create public and private key for instance using:-
+    -> ssh-keygen 
+
 ### 3️⃣ Install Terraform from HashiCorp Documentation
 
 ⚙️ Initialize and Deploy Terraform
